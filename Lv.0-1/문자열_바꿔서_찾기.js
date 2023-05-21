@@ -6,5 +6,4 @@ function solution(myString, pat) {
   return result ? 1 : 0;
 }
 
-console.log(solution("ABBAA", "AABB"));
 console.log(solution("ABAB", "ABAB"));
